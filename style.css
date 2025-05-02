@@ -37,7 +37,12 @@ box-shadow: 8px 8px 66px 0px rgba(71, 90, 66, 1);
     align-items: center;
     justify-content: center;
 }
-#Quotes{
+
+#show{
+    color: rgb(240, 5, 142);
+    font-size: 25px;
+}
+#show_Quote{
     border: 1px solid black;
     width:90vw;
     height: 200px;
@@ -46,11 +51,8 @@ box-shadow: 8px 8px 66px 0px rgba(71, 90, 66, 1);
     align-items: center;
     border-radius: 20px;
     font-size: 20px;
-   color: rgb(252, 59, 0);
-   -webkit-box-shadow: 1px 6px 65px -6px rgba(0, 0, 0, 1);
--moz-box-shadow: 1px 6px 65px -6px rgba(0, 0, 0, 1);
-box-shadow: 1px 6px 65px -6px rgba(0, 0, 0, 1);
-}
-#show{
-    color: rgb(240, 5, 142);
+    color: black;
+    -webkit-box-shadow: 1px 6px 65px -6px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 1px 6px 65px -6px rgba(0, 0, 0, 1);
+    box-shadow: 1px 6px 65px -6px rgba(0, 0, 0, 1);
 }
